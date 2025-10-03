@@ -2,7 +2,7 @@
 ## 👨‍💻 About Me<br><br>Hello! I'm **Ganesh Shendge**, a passionate **data scientist** with a strong interest in **Data Science**. I love building innovative solutions, working on real-world problems, and continuously learning new things. <br><br>With experience in **[Technologies/Skills You Have]**, I enjoy tackling challenges in **[Specific Domains You Focus On]** like **[Example Projects/Applications]**. I'm always looking to collaborate with like-minded individuals who share a love for **[Domain/Technology]**.<br><br>When I'm not coding, you can find me **[Personal Interests or Hobbies]**. I’m always open to new projects, so if you want to collaborate, feel free to reach out!<br><br>- 💻 Current focus: **[Current Project or Area of Interest]**<br>- 📚 Currently learning: **[New Skill or Technology]**
 
 
-## 🌐 Socials: 
+## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ganesh-shendge-a99a58211) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ganesh.shendge90@gmail.com) 
  
 # 💻 Tech Stack:
